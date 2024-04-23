@@ -41,10 +41,10 @@ Alguns detalhes adicionados ao desafio:
 <h2 id="usage">💡 Utilização</h2>
 
 Para instalar a aplicação em sua máquina localmente siga os seguintes passos:
-1 - clone o projeto,
-2 - acesse a pasta, 
-3 - instale as dependências,
-4 - inicie o servidor.
+- clone o projeto,
+- acesse a pasta, 
+- instale as dependências,
+- inicie o servidor.
 
 ```
 $ git clone https://github.com/GuiiDamasceno/rocket-movies-api.git
