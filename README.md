@@ -47,7 +47,7 @@ Para instalar a aplicação em sua máquina localmente siga os seguintes passos:
 4 - inicie o servidor.
 
 ```
-$ git clone https://github.com/GuiiDamasceno/rocketMovies-api.git
+$ git clone https://github.com/GuiiDamasceno/rocket-movies-api.git
 $ cd rocket-movies-api
 $ npm install
 $ npm run dev
